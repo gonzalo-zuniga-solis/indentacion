@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>
-        Basic II
-        </title>
+        <title>Basic II</title>
     </head>
         <body>
             <table> 
@@ -22,7 +20,7 @@
                     <td>FakePassword123</td>
                 </tbody>
             </table>
-                <h1>Esta es una lista de mis cosas favoritas:</h1>
+            <h1>Esta es una lista de mis cosas favoritas:</h1>
             <ul>
                 <li>Trabajar</li>
                 <li>Jugar con Perros</li>
