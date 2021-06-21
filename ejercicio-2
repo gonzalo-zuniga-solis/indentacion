@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+        Basic II
+        </title>
+    </head>
+        <body>
+            <table> 
+                <thead>
+                    <tr>
+                        <th>Nombre</th>
+                        <th>Apellido</th>
+                        <th>Email</th>
+                        <th>Password</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <td>Gonzalo</td>
+                    <td>Zúñiga</td>
+                    <td>zunigasolsigonzalo@gmail.com
+                    <td>FakePassword123</td>
+                </tbody>
+            </table>
+                <h1>Esta es una lista de mis cosas favoritas:</h1>
+            <ul>
+                <li>Trabajar</li>
+                <li>Jugar con Perros</li>
+                <li>Aprender código fuente</li>
+                <li>Tocar Guitarra</li>
+            </ul>
+        </body>
+</html>
